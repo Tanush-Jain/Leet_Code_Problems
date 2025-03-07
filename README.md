@@ -20,3 +20,34 @@ Welcome to my LeetCode repository! Here, you'll find my solutions to various Lee
 ## Structure
 
 Each problem is organized into its own directory, named according to the LeetCode problem number and title. For example:
+
+
+├── Problem-Statement/
+│   ├── solution
+│   ├── test_cases
+│   └── README.md
+
+* `solution`: Contains the solution to the problem.
+* `test_cases`: Includes the test cases for the solution.
+* `README.md`: Provides a detailed explanation of the problem and the solution.
+
+## Contribution
+
+While this repository primarily serves as a personal learning journey, feel free to submit pull requests for:
+
+* Improved test cases.
+* Alternative solutions.
+* Corrections to explanations.
+
+## Tools Used
+
+* **Python, C , Java :** The primary programming language for the solutions.
+* **Python Tutor:** For visualizing code execution.
+* **unittest (or pytest):** For writing and running test cases.
+
+## Connect with Me
+
+* [GitHub Profile](https://github.com/Tanush-Jain)
+* [LinkedIn Profile (Optional)](https://www.linkedin.com/in/tanush-jain-17601321a)
+
+Happy coding!
