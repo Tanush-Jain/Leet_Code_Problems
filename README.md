@@ -45,7 +45,7 @@ While this repository primarily serves as a personal learning journey, feel free
 * **Python Tutor:** For visualizing code execution.
 * **unittest (or pytest):** For writing and running test cases.
 
-## Connect with Me on these profiles
+## Connect with Me on these profiles.
 
 * [GitHub Profile](https://github.com/Tanush-Jain)
 * [LinkedIn Profile (Optional)](https://www.linkedin.com/in/tanush-jain-17601321a)
